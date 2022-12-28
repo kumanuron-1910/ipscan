@@ -22,7 +22,7 @@
 
 ## 使い方
 
-1. 任意のディレクトリ内に`git clone`コマンドでダウンロードします。
+1. 任意のディレクトリ内に`git clone`コマンドでソースコードをダウンロードします。
 
     ```none
     $ git clone http://github.com/kumanuron-1910/ipscan.git
