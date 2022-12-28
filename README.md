@@ -1,4 +1,4 @@
-# ipscan
+# ipscan.sh
 
 ## 概要
 
