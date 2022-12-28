@@ -46,7 +46,7 @@
     Created text file : ipscan_result.txt
     ```
 
-3. `cat`コマンドで作成された`ipscan_result.txt`を表示すると、接続済みのIPアドレス（ホストアドレス）の一覧を見ることができます。
+3. `cat`コマンドで`ipscan_result.txt`を表示すると、接続済みのIPアドレス（ホストアドレス）の一覧を見ることができます。
 
     ```none
     $ cat ipscan_result.txt
